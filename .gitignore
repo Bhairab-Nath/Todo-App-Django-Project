@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.py[cod]
+*.log
+
+# Django
+db.sqlite3
+
+# Virtual Environment
+env/
